@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RBMRB"]
+	path = RBMRB
+	url = https://github.com/bmrb-io/rbmrb
+	shallow = true
+	subdir = RBMRB
+	registered = true
